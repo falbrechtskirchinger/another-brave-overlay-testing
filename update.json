@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "Fetch new releases",
+  "label": "Update",
   "message": "failing",
   "color": "red"
 }
