@@ -48,8 +48,8 @@ To install the Brave Browser from this overlay, follow these steps:
     ```
 
 
-On `verify-sig`
----------------
+About `verify-sig`
+------------------
 
 The `verify-sig` USE flag is supported. However, you may encounter sporadic messages like this:
 
@@ -65,12 +65,10 @@ When Brave signs releases with an intermediate key, the generated ebuild is fetc
 These messages will not prevent `emerge` from installing other packages, such as during a `@world` update.
 
 
-Issues and Contributions
-------------------------
+Issues
+------
 
 If you encounter any problems or have suggestions, please open an issue on GitHub: https://github.com/falbrechtskirchinger/another-brave-overlay/issues
-
-Pull requests are currently closed, as the code generating the ebuilds has moved to a separate repository; that development repository is temporarily private while work is underway, but it will be made public at a future date.
 
 
 License
