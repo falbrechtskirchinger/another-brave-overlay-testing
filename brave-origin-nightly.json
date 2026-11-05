@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "brave-origin-nightly",
-  "message": "failing",
-  "color": "red"
+  "message": "OK",
+  "color": "brightgreen"
 }
