@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "Divergence",
-  "message": "diverged",
-  "color": "yellow"
+  "label": "Reference ebuild drift",
+  "message": "in sync",
+  "color": "brightgreen"
 }
